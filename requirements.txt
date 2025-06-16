@@ -1,1 +1,8 @@
-ÿþ
+flask
+flask_socketio
+python-dotenv
+flask_sqlalchemy
+flask_bcrypt
+flask_cors
+mysqlclient
+PyJWT
